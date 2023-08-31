@@ -1,0 +1,10 @@
+# CosmosSlashingV1beta1QuerySigningInfosResponse
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**info** | [**list[CosmosSlashingV1beta1QuerySigningInfosResponseInfo]**](CosmosSlashingV1beta1QuerySigningInfosResponseInfo.md) |  | [optional] 
+**pagination** | [**CosmosSlashingV1beta1QuerySigningInfosResponsePagination**](CosmosSlashingV1beta1QuerySigningInfosResponsePagination.md) |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
